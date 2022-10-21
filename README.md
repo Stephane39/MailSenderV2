@@ -1,4 +1,3 @@
-#MailsenderV2
 open MailSenderV2.sln for edit and compile
 and launch ..\MailSenderV2\bin\Debug\MailSenderV2.exe
 
